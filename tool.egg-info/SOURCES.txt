@@ -1,0 +1,8 @@
+README.md
+setup.py
+cli_toolkit/__init__.py
+tool.egg-info/PKG-INFO
+tool.egg-info/SOURCES.txt
+tool.egg-info/dependency_links.txt
+tool.egg-info/entry_points.txt
+tool.egg-info/top_level.txt

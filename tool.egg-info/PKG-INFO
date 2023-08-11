@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: tool
+Version: 0.0.1
+Summary: accessing tools for quick access
+Author: 
+Author-email: 
+Classifier: Programming Language :: Python :: 3.11.3
+Classifier: Operating System :: OS Independent
+Requires-Python: ==3.11.3

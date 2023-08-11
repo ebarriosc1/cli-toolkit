@@ -1,0 +1,3 @@
+[console_scripts]
+CALC = cli_toolkit.calculator.tools:cli
+CNVRS = cli_toolkit.conversionTool.tool:cli
